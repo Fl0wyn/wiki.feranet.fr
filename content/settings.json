@@ -1,0 +1,9 @@
+{
+  "title": "Wiki feranet",
+  "url": "https://wiki.feranet.fr",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "Fl0wyn/wiki.feranet.fr"
+}
