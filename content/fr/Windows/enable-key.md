@@ -1,5 +1,5 @@
 ---
-title: Activer la clé
+title: Activation de clé
 position: 1
 category: Windows
 ---

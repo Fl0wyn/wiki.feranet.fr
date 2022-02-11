@@ -4,7 +4,7 @@ position: 2
 category: Bash
 ---
 
-## Structure : si
+## Structure : if
 
 ```bash
 if [ test_1 ] ; then
