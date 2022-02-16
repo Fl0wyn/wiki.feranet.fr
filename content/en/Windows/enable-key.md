@@ -18,4 +18,4 @@ slmgr /skms kms8.msguides.com
 slmgr /ato
 ```
 
-List of all keys [ici]("https://docs.microsoft.com/windows-server/get-started/kms-client-activation-keys")
+List of all keys [ici](https://docs.microsoft.com/windows-server/get-started/kms-client-activation-keys)
