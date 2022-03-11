@@ -127,7 +127,7 @@ docker-compose pull
 docker-compose up -d --remove-orphans
 
 # Remove obsolete images
-docker image plum
+docker image prune
 ```
 
 ## Example of docker-compose.yml configuration
