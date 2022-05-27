@@ -1,6 +1,5 @@
 ---
 title: Activation de clé
-position: 1
 category: Windows
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: bloatware & trackers
-position: 2
+title: Bloatware & trackers
 category: Windows
 ---
 

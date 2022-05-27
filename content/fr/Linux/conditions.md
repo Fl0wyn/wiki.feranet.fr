@@ -1,7 +1,6 @@
 ---
 title: Conditions
-position: 2
-category: Bash
+category: Linux
 ---
 
 ## Structure : if

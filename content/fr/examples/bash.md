@@ -1,6 +1,5 @@
 ---
 title: Bash
-position: 1
 category: Exemples
 ---
 

@@ -1,6 +1,5 @@
 node_modules
 .nuxt
-.env
 .idea
 .vscode
 dist

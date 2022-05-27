@@ -1,7 +1,6 @@
 ---
 title: Traitement de texte
-position: 1
-category: Bash
+category: Linux
 ---
 
 ## sed

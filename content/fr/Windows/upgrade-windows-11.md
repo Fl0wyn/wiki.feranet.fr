@@ -1,6 +1,5 @@
 ---
 title: Mise à niveau Windows 11
-position: 3
 category: Windows
 ---
 
