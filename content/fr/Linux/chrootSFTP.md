@@ -5,17 +5,16 @@ category: Linux
 
 ```bash
 groupadd sftp_users
-useradd -G sftp_users sftpuser
+useradd -G sftp_users myuser
 
 echo "sftpUser:sftpPassword" | chpasswd
 
-mkdir -p /var/share/sftpuser
+mkdir -p /var/share/myuser
 
 chown -R root: /var/share
 chmod -R 755 /var/share
 
-mkdir /var/share/sftpuser/
-chown sftpuser:sftp_users /var/share/sftpuser
+chown myuser:sftp_users /var/share/myuser
 ```
 
 ```bash[/etc/ssh/sshd_config]
