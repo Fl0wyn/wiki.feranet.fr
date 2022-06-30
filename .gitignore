@@ -1,7 +1,6 @@
 node_modules
 .nuxt
-.idea
+.env
 .vscode
 dist
 sw.*
-ecosystem.config.js
