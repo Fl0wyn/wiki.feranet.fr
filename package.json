@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "pm2 deploy production"
+    "deploy": "pm2 deploy ecosystem.config.js production"
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.11.0",
