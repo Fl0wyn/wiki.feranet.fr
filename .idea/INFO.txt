@@ -1,1 +1,0 @@
-yarn generate && ssh s_feranet 'rm -fr wiki.feranet.fr/data/*' && scp -r dist/* s_feranet:wiki.feranet.fr/data
