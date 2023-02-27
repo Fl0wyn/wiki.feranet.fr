@@ -9,7 +9,7 @@
     "deploy": "powershell -NoProfile -Command ./.deploy.ps1"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.47",
+    "vitepress": "^1.0.0-alpha.48",
     "vue": "^3.2.47"
   }
 }
