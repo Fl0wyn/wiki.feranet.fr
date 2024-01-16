@@ -12,6 +12,6 @@
   "author": "Fl0wyn",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "1.0.0-rc.36"
+    "vitepress": "1.0.0-rc.39"
   }
 }
