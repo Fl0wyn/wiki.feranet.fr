@@ -1,8 +1,8 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: "Feranet.fr",
-  titleTemplate: "Feranet.fr | :title",
+  title: "Wiki Feranet",
+  titleTemplate: "Wiki Feranet | :title",
 
   lastUpdated: true,
   cleanUrls: true,

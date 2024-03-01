@@ -72,3 +72,17 @@ Delete the following key in the registry
 ```powershell
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2
 ```
+
+## Delete administrative shares on Windows 10
+
+**HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters**
+
+```reg
+REG ADD HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters /v AutoShareWks /t REG_DWORD /d 0 /f
+```
+
+```powershell
+Restart-Service LanmanServer -Force
+```
+
+[it-connect.fr](https://www.it-connect.fr/les-partages-administratifs-sous-windows-10/)
